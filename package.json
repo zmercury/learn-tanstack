@@ -20,7 +20,9 @@
   "homepage": "https://github.com/zmercury/learn-tanstack#readme",
   "dependencies": {
     "@tanstack/react-router": "^1.157.16",
-    "@tanstack/react-start": "^1.157.16"
+    "@tanstack/react-start": "^1.157.16",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
   },
   "devDependencies": {
     "vite": "^7.3.1"
