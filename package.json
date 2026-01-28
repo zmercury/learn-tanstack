@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/zmercury/learn-tanstack/issues"
   },
-  "homepage": "https://github.com/zmercury/learn-tanstack#readme"
+  "homepage": "https://github.com/zmercury/learn-tanstack#readme",
+  "dependencies": {
+    "@tanstack/react-router": "^1.157.16",
+    "@tanstack/react-start": "^1.157.16"
+  }
 }
